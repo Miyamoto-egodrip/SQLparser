@@ -7,9 +7,9 @@ import java.util.*;
 
 public class Main {
 
-    private static final String DB_URL = "jdbc:postgresql://10.19.54.115:5432/antifraud_41";
-    private static final String DB_USER = "fraud_ic";
-    private static final String DB_PASSWORD = "fraud_ic";
+    private static final String DB_URL = "jdbc:postgresql://";
+    private static final String DB_USER = "";
+    private static final String DB_PASSWORD = "";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
